@@ -1,0 +1,3 @@
+The difference between Git and Github:
+Git is a version control software.
+Github is a web service, which also can be identified as a social netowrk, for projects managed through GIT
